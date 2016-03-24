@@ -1,0 +1,6 @@
+c:\users\nick.sd\documents\visual studio 2013\Projects\Test_Program\Test_Program\bin\Debug\Test_Program.exe.config
+C:\Users\Nick.Sd\Documents\Visual Studio 2013\Projects\Test_Program\Test_Program\obj\Debug\Test_Program.csprojResolveAssemblyReference.cache
+C:\Users\Nick.Sd\Documents\Visual Studio 2013\Projects\Test_Program\Test_Program\bin\Debug\Test_Program.exe
+C:\Users\Nick.Sd\Documents\Visual Studio 2013\Projects\Test_Program\Test_Program\bin\Debug\Test_Program.pdb
+C:\Users\Nick.Sd\Documents\Visual Studio 2013\Projects\Test_Program\Test_Program\obj\Debug\Test_Program.exe
+C:\Users\Nick.Sd\Documents\Visual Studio 2013\Projects\Test_Program\Test_Program\obj\Debug\Test_Program.pdb
